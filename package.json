@@ -2,7 +2,7 @@
   "name": "animateplus",
   "version": "1.4.0",
   "description": "CSS and SVG animation library",
-  "main": "animate.min.js",
+  "main": "animate.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/bendc/animateplus.git"
