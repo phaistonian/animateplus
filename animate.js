@@ -1,3 +1,4 @@
+/* eslint-disable */
 /*
  * Animate Plus JavaScript Library v1.4.0
  * http://animateplus.com
@@ -373,7 +374,9 @@ const animate = (() => {
     "skewY",
     "translateZ",
     "rotateZ",
-    "scaleZ"
+    "scaleZ",
+    "backgroundColor",
+    "color"
   ];
 
   const defaultCSSvalues = new Map();
